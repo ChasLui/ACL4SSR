@@ -216,9 +216,6 @@ cfw-proxies-order: default
 # System proxy will ignore these domains(or ipnet)
 # 系统代理跳过列表-备份的，不起作用，
 # 使用时可以将cfw-bypass-bak与cfw-bypass内容互换
-bypass:
-  - '*.lanhuapp.*'
-  - '*.*.lanhuapp.*'
 cfw-bypass-bak:
   # 原有字段不用删除
   - qq.com
@@ -249,6 +246,9 @@ cfw-bypass-bak:
 cfw-bypass:
   # 直连列表
   # MyList
+  - '*.lanhuapp.*'
+  - '*.*.lanhuapp.*'
+  - '*.jwzg.*'
   - "*.13th.tech"
   - "*.423down.com"
   - "*.bokecc.com"
