@@ -63,6 +63,7 @@ experimental:
 #   'alpha.clash.dev': '::1'
 hosts:
   '*.develop.lanhuapp.com': 172.19.20.107
+  'pdp-kbqa.lanhuapp.com': 172.19.12.188
 
 dns:
   enable: true # 是否启用dns false
