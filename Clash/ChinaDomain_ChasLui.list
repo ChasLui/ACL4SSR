@@ -25,4 +25,5 @@ DOMAIN-SUFFIX,zhibenyuan.cc
 DOMAIN-SUFFIX,lanhuapp.com
 DOMAIN-SUFFIX,develop.lanhuapp.com
 DOMAIN-SUFFIX,ssh.github.com
-IP-CIDR,39.105.213.197/32
+IP-CIDR,39.105.213.197/32,no-resolve
+IP-CIDR,172.19.0.0/12,no-resolve
