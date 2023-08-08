@@ -3,3 +3,4 @@ payload:
   # 数量：1条
   - DOMAIN-KEYWORD,claude
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,poe.com
