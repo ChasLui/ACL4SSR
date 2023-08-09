@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,develop.lanhuapp.com
 DOMAIN-SUFFIX,ssh.github.com
 IP-CIDR,39.105.213.197/32,no-resolve
 IP-CIDR,172.19.0.0/12,no-resolve
+IP-CIDR,10.233.39.0/24,no-resolve
+IP-CIDR,10.213.207.0/24,no-resolve
+IP-CIDR,10.159.15.0/24,no-resolve
