@@ -2,7 +2,7 @@
 
 # MyList
 DOMAIN-SUFFIX,lanhuapp.env
-DOMAIN-SUFFIX,jwzg.env
+DOMAIN-SUFFIX,jwzg.env,no-resolve
 DOMAIN-SUFFIX,lanhu.com
 DOMAIN-SUFFIX,lhenv.cn
 DOMAIN-SUFFIX,lhcdn.com
