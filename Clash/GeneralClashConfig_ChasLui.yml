@@ -252,7 +252,7 @@ cfw-bypass:
   # MyList
   - '*.lanhuapp.*'
   - '*.*.lanhuapp.*'
-  - '*.jwzg.*'
+  - '*.jwzg.env'
   - "*.13th.tech"
   - "*.423down.com"
   - "*.bokecc.com"
