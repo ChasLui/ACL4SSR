@@ -30,3 +30,6 @@ IP-CIDR,172.19.0.0/12,no-resolve
 IP-CIDR,10.233.39.0/24,no-resolve
 IP-CIDR,10.213.207.0/24,no-resolve
 IP-CIDR,10.159.15.0/24,no-resolve
+IP-CIDR,10.159.15.0/24,no-resolve
+IP-CIDR,100.110.0.0/10,no-resolve
+IP-CIDR,100.118.0.0/10,no-resolve
