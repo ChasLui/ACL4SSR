@@ -224,6 +224,7 @@ cfw-proxies-order: default
 # 使用时可以将cfw-bypass-bak与cfw-bypass内容互换
 cfw-bypass-bak:
   # 原有字段不用删除
+  - 100.*.*.*
   - qq.com
   - 'music.163.com' # 网易云域名1
   - '*.music.126.net' # 网易云域名2
@@ -252,6 +253,8 @@ cfw-bypass-bak:
 cfw-bypass:
   # 直连列表
   # MyList
+  - 10.*.*.*
+  - 100.*.*.*
   - '*.lanhuapp.*'
   - '*.*.lanhuapp.*'
   - '*.jwzg.env'
