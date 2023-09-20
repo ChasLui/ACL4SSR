@@ -65,6 +65,7 @@ hosts:
   '*.develop.lanhuapp.com': 172.19.20.107
   'pdp-kbqa.lanhuapp.com': 172.19.12.188
   'jenkins.jwzg.env': 172.19.13.19
+  'local.mastergo.com': 127.0.0.1
 
 dns:
   enable: true # 是否启用dns false
