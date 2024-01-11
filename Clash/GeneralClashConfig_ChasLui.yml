@@ -251,6 +251,7 @@ cfw-bypass-bak:
   - 172.31.*
   - 192.168.*
   - <local>
+  - '*.orb.local'
 # 系统代理跳过列表 起作用的
 cfw-bypass:
   # 直连列表
@@ -1026,3 +1027,4 @@ cfw-bypass:
   - 172.31.*
   - 192.168.*
   - <local>
+  - '*.orb.local'
