@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,jwzg.com
 DOMAIN-SUFFIX,lanhuapp.net
 DOMAIN-SUFFIX,lanhuhu.com
 DOMAIN-SUFFIX,zhibenyuan.cc
-DOMAIN-SUFFIX,lanhuapp.com
+DOMAIN-SUFFIX,lanhuapp.com,no-resolve
 DOMAIN-SUFFIX,develop.lanhuapp.com
 DOMAIN-SUFFIX,ssh.github.com
 DOMAIN-SUFFIX,mastergo.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,tailscale.io,no-resolve
 DOMAIN-SUFFIX,outlook.live.com
 DOMAIN-SUFFIX,orb.local
 DOMAIN-SUFFIX,creatie.ai
+
 IP-CIDR,39.105.213.197/32,no-resolve
 IP-CIDR,172.19.0.0/12,no-resolve
 IP-CIDR,10.233.39.0/24,no-resolve
