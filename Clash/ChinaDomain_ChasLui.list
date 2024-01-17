@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,tailscale.io,no-resolve
 DOMAIN-SUFFIX,outlook.live.com
 DOMAIN-SUFFIX,orb.local
 DOMAIN-SUFFIX,creatie.ai
+DOMAIN-SUFFIX,cloud.sealos.io
 
 IP-CIDR,39.105.213.197/32,no-resolve
 IP-CIDR,172.19.0.0/12,no-resolve
